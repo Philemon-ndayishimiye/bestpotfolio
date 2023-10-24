@@ -191,3 +191,5 @@ h3{
     color: white;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+button{
+    cursor:pointer;}
